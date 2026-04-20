@@ -30,19 +30,13 @@ The application supports adding, updating, deleting, and viewing tasks, making i
 
 ## 🚀 How to Run the Project
 
-### 1️⃣ Clone the Repository
-
-```bash
-git clone <your-repo-link>
-```
-
-### 2️⃣ Open Project Folder
+###  Open Project Folder
 
 ```bash
 cd todolist
 ```
 
-### 3️⃣ Run the Application
+###  Run the Application
 
 ```bash
 python todolist.py
